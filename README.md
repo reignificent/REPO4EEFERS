@@ -29,7 +29,7 @@
 <br>
 <img src="https://64.media.tumblr.com/5a84d5c46b433d983a16806cf64b579b/dc6055dc1411e533-ba/s640x960/ee7f53484e88d764bd9d3a9d7d212e91e08f0dcf.pnj" align="left" width="265" alt="sticker1">
 <!-- <sub>˚₊‧꒰ა ♡ ໒꒱ ‧₊˚</sub> -->
-<img src="https://64.media.tumblr.com/c3089e739162dd4fbd02f73c180909ab/0e79501fdf0af097-de/s1280x1920/9fcabe2607c7d0c2a1ab10bd475c257befe95426.pnj" align="right" width="264" alt="sticker1">
+<img src="https://64.media.tumblr.com/d9afe977207e7f0d61cb640f1a9ee696/5282a86153d2da06-58/s400x600/9ad98ccd0555b3e6338d9b445a734eab17adeae9.pnj" align="right" width="264" alt="sticker1">
 
 <sub>↳ *all art by wasyago on tumblr !*</sub>
   
@@ -64,10 +64,28 @@
 <sub>MC -•- Life series -•- HC</sub>
 <br>
 <sub>Biggest interest listed above!</sub>
+<br><br>
+</div>
+
+<div align="left">
+<sub>　　　　　　꒷꒦︶꒷˗ˏˋ ꒷꒦︶꒷꒦ˎˊ˗꒦︶꒷꒦</sub>
 </div>
 
 <div align="right">
-<img src="https://64.media.tumblr.com/a034b20a27d455884cc54e68ec8fff60/27359f6c247d7eee-32/s1280x1920/b97226eab09315e4b0eb4a0b50bd7f5ed69b8f23.pnj" width="100" alt="sticker2">
+<br>
+<sub>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</sub>
+<img align="center" src="https://64.media.tumblr.com/187e2d09733e350ad238ef6cf2286276/284175bf6b036f35-f8/s1280x1920/a06a491cc2486b04779fbe710f2c99b23bb3cf7b.pnj" align="center" width="220" alt="sticker5billion">
+<sub>　　　　　　　　　　　　　　　　　　　　</sub>
+
+
+<!-- <img src="https://64.media.tumblr.com/a034b20a27d455884cc54e68ec8fff60/27359f6c247d7eee-32/s1280x1920/b97226eab09315e4b0eb4a0b50bd7f5ed69b8f23.pnj" align="right" width="100" alt="sticker2"> -->
+<br>
+</div>
+
+<!--<div align="center">
+<img src="https://64.media.tumblr.com/187e2d09733e350ad238ef6cf2286276/284175bf6b036f35-f8/s1280x1920/a06a491cc2486b04779fbe710f2c99b23bb3cf7b.pnj" width="250" alt="sticker5billion">
+<div align="right">
+<img src="https://64.media.tumblr.com/a034b20a27d455884cc54e68ec8fff60/27359f6c247d7eee-32/s1280x1920/b97226eab09315e4b0eb4a0b50bd7f5ed69b8f23.pnj" width="100" alt="sticker2"> -->
 <!-- <br>
 <sub> do not copy my ponies,</sub>
  <br> 
@@ -83,10 +101,6 @@
 <img src="https://64.media.tumblr.com/62e3fd44115a318adc7ff42d5526062c/968f0086b40394da-86/s2048x3072/d640e91b2eb32610e0f67dcdbf8ad58cb38382b1.pnj" width="775" alt="sticker3" width="100" alt="small chibi number billion">
 
 </div>
-
-
-
-
 
 <div align="center">
 <img src="https://64.media.tumblr.com/bea43f267c8a2e906911cad2d5c167be/58241b304e2fe519-cc/s1280x1920/116dd6db312ea18f997c727fc4399f4da1df8fd1.pnj" width="730" alt="idk cute border">
